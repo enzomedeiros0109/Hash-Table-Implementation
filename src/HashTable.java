@@ -237,4 +237,28 @@ public class HashTable {
         //System.out.println("O livro não existe na tabela!");
         return -1;
     }
+
+    public void printConcentrationMap() {
+        System.out.println("\n--- Mapa de Concentração da Tabela ---");
+        final int BLOCK_SIZE = 130;
+
+        // O laço principal agora lê-se quase como texto em inglês puro
+        for (int startIndex = 0; startIndex < capacity; startIndex += BLOCK_SIZE) {
+
+            int endIndex = Math.min(startIndex + BLOCK_SIZE - 1, capacity - 1);
+            int occupiedCount = countOccupiedSlots(startIndex, endIndex);
+
+            System.out.printf("Índices [%4d a %4d]: %3d livros ocupados\n", startIndex, endIndex, occupiedCount);
+        }
+    }
+
+    private int countOccupiedSlots(int start, int end) {
+        int count = 0;
+        for (int i = start; i <= end; i++) {
+            if (table[i] != null) {
+                count++;
+            }
+        }
+        return count;
+    }
 }

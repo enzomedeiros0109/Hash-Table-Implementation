@@ -4,11 +4,18 @@ public class PerformanceAnalyzer {
         CSVReader reader = new CSVReader();
         reader.readCSV();
         Book[] books = reader.books;
+        HashTable hashTable = new HashTable();
 
         // Roda todas as combinações: Hashes (1 a 3) vs Colisões (1 a 2)
         for (int h = 1; h <= 3; h++) {
             for (int c = 1; c <= 2; c++) {
                 benchmark(books, h, c);
+            }
+        }
+
+        for (int h = 1; h <= 3; h++) {
+            for (int c = 1; c <= 2; c++) {
+                PerformanceAnalyzer.runSearchTests(reader.books, hashTable, h, c);
             }
         }
     }
@@ -76,5 +83,49 @@ public class PerformanceAnalyzer {
         System.out.printf("Tempo médio de busca         : %.6f ms\n", tempoMedioBusca);
         System.out.printf("Tempo médio de remoção       : %.6f ms\n", tempoMedioRemocao);
         System.out.println();
+    }
+
+    public static void runSearchTests(Book[] sampleBooks, HashTable table, int hashOption, int collisionOption) {
+        System.out.println("\n=======================================================");
+        System.out.println("TESTE DE BUSCAS - Hash " + hashOption + " | Colisão " + collisionOption);
+        System.out.println("=======================================================");
+
+        // Preenchendo a tabela com os livros antes de iniciar as buscas
+        for (Book book : sampleBooks) {
+            table.add(book, hashOption, collisionOption);
+        }
+
+        // 50 buscas de ISBN's EXISTENTES
+        System.out.println("\n[ Busca 50 ISBNs Existentes ]");
+        int foundCount = 0;
+        long startExist = System.nanoTime();
+
+        // 50 Primeiros livros do array
+        for (int i = 0; i < 50; i++) {
+            long targetISBN = sampleBooks[i].ISBN;
+            Book result = table.searchBook(targetISBN, hashOption, collisionOption);
+            if (result != null) foundCount++;
+        }
+
+        long endExist = System.nanoTime();
+        double timeExist = (endExist - startExist) / 1e6;
+        System.out.printf("Total encontrados: %d/50 | Tempo total: %.4f ms\n", foundCount, timeExist);
+
+
+        // 20 buscas de ISBN's INEXISTENTES
+        System.out.println("\n[ Busca 20 ISBNs Inexistentes ]");
+        int notFoundCount = 0;
+        long startFake = System.nanoTime();
+
+        long fakeISBNNumber = 9999999999900L;
+        for (int i = 1; i <= 20; i++) {
+            long fakeISBN = fakeISBNNumber + i;
+            Book result = table.searchBook(fakeISBN, hashOption, collisionOption);
+            if (result == null) notFoundCount++;
+        }
+
+        long endFake = System.nanoTime();
+        double timeFake = (endFake - startFake) / 1e6;
+        System.out.printf("Total não encontrados (correto): %d/20 | Tempo total: %.4f ms\n", notFoundCount, timeFake);
     }
 }
