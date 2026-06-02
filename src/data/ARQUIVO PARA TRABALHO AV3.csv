@@ -1,0 +1,1001 @@
+ISBN,TITULO,AUTOR,ANO
+9788500000000,Python - Volume 1,Thomas Cormen,2018
+9788500000001,Machine Learning - Volume 2,Mitchell,2002
+9788500000002,Banco de Dados - Volume 3,Brookshear,2016
+9788500000003,Segurança da Informação - Volume 4,Deitel,2013
+9788500000004,Arquitetura de Computadores - Volume 5,Mark Weiss,1995
+9788500000005,Java - Volume 6,Russell,2002
+9788500000006,Mineração de Dados - Volume 7,Knuth,1995
+9788500000007,Segurança da Informação - Volume 8,Russell,2017
+9788500000008,Segurança da Informação - Volume 9,Patterson,2002
+9788500000009,Computação Gráfica - Volume 10,Erl,2003
+9788500000010,Algoritmos - Volume 11,Silberschatz,2017
+9788500000011,Arquitetura de Computadores - Volume 12,Pressman,2003
+9788500000012,Banco de Dados - Volume 13,Russell,2025
+9788500000013,Engenharia de Software - Volume 14,Brookshear,1997
+9788500000014,Programação Web - Volume 15,Brookshear,2006
+9788500000015,Compiladores - Volume 16,Knuth,2003
+9788500000016,Estruturas de Dados - Volume 17,Hearn,2012
+9788500000017,Python - Volume 18,Freeman,1997
+9788500000018,Segurança da Informação - Volume 19,McKinney,2021
+9788500000019,Análise de Dados - Volume 20,Aho,2013
+9788500000020,Sistemas Operacionais - Volume 21,Deitel,1996
+9788500000021,Inteligência Artificial - Volume 22,McKinney,1997
+9788500000022,Inteligência Artificial - Volume 23,Brookshear,2007
+9788500000023,Machine Learning - Volume 24,Hearn,2015
+9788500000024,Compiladores - Volume 25,Silberschatz,2006
+9788500000025,Compiladores - Volume 26,Russell,2016
+9788500000026,Machine Learning - Volume 27,Deitel,2014
+9788500000027,Redes - Volume 28,Stallings,2018
+9788500000028,Inteligência Artificial - Volume 29,Silberschatz,2009
+9788500000029,Programação Web - Volume 30,Goodfellow,2024
+9788500000030,Segurança da Informação - Volume 31,Mitchell,2016
+9788500000031,Engenharia de Software - Volume 32,Mark Weiss,2002
+9788500000032,Estruturas de Dados - Volume 33,Pressman,2007
+9788500000033,Machine Learning - Volume 34,Deitel,2001
+9788500000034,Computação em Nuvem - Volume 35,Pressman,2001
+9788500000035,Visão Computacional - Volume 36,Freeman,2023
+9788500000036,Computação Gráfica - Volume 37,Tanenbaum,2003
+9788500000037,Banco de Dados - Volume 38,Mitchell,2018
+9788500000038,Segurança da Informação - Volume 39,Stallings,2003
+9788500000039,Computação em Nuvem - Volume 40,Patterson,2023
+9788500000040,Computação em Nuvem - Volume 41,Freeman,2006
+9788500000041,Inteligência Artificial - Volume 42,Tanenbaum,2011
+9788500000042,Visão Computacional - Volume 43,Deitel,2019
+9788500000043,Estruturas de Dados - Volume 44,Brookshear,1999
+9788500000044,Redes - Volume 45,Patterson,2014
+9788500000045,Java - Volume 46,Freeman,2007
+9788500000046,Análise de Dados - Volume 47,Hearn,2011
+9788500000047,Machine Learning - Volume 48,Stallings,2022
+9788500000048,Algoritmos - Volume 49,Brookshear,2016
+9788500000049,Segurança da Informação - Volume 50,Goodfellow,2019
+9788500000050,Engenharia de Software - Volume 51,Brookshear,2004
+9788500000051,Arquitetura de Computadores - Volume 52,Silberschatz,2009
+9788500000052,Algoritmos - Volume 53,Goodfellow,2011
+9788500000053,Redes - Volume 54,Han,2024
+9788500000054,Python - Volume 55,McKinney,2021
+9788500000055,Mineração de Dados - Volume 56,Knuth,2001
+9788500000056,Banco de Dados - Volume 57,Aho,2019
+9788500000057,Redes - Volume 58,Stallings,2025
+9788500000058,Mineração de Dados - Volume 59,Thomas Cormen,2014
+9788500000059,Engenharia de Software - Volume 60,Szeliski,1995
+9788500000060,Python - Volume 61,Aho,2023
+9788500000061,Deep Learning - Volume 62,Mitchell,1996
+9788500000062,Inteligência Artificial - Volume 63,Erl,2025
+9788500000063,Java - Volume 64,Deitel,2018
+9788500000064,Visão Computacional - Volume 65,Deitel,2019
+9788500000065,Segurança da Informação - Volume 66,Tanenbaum,1999
+9788500000066,Visão Computacional - Volume 67,Stallings,2000
+9788500000067,Machine Learning - Volume 68,Han,2022
+9788500000068,Análise de Dados - Volume 69,Patterson,2025
+9788500000069,Sistemas Operacionais - Volume 70,Stallings,2019
+9788500000070,Sistemas Operacionais - Volume 71,McKinney,2007
+9788500000071,Compiladores - Volume 72,Hearn,2023
+9788500000072,Mineração de Dados - Volume 73,Hearn,1998
+9788500000073,Inteligência Artificial - Volume 74,Mitchell,1997
+9788500000074,Engenharia de Software - Volume 75,Thomas Cormen,2013
+9788500000075,Segurança da Informação - Volume 76,Mitchell,2013
+9788500000076,Inteligência Artificial - Volume 77,Thomas Cormen,1997
+9788500000077,Estruturas de Dados - Volume 78,Mitchell,1997
+9788500000078,Estruturas de Dados - Volume 79,Pressman,1997
+9788500000079,Mineração de Dados - Volume 80,Mitchell,2003
+9788500000080,Visão Computacional - Volume 81,Russell,2012
+9788500000081,Banco de Dados - Volume 82,Erl,2013
+9788500000082,Visão Computacional - Volume 83,Mitchell,2020
+9788500000083,Visão Computacional - Volume 84,Patterson,2001
+9788500000084,Python - Volume 85,Brookshear,2016
+9788500000085,Arquitetura de Computadores - Volume 86,Aho,2008
+9788500000086,Arquitetura de Computadores - Volume 87,Hearn,2022
+9788500000087,Estruturas de Dados - Volume 88,Brookshear,1996
+9788500000088,Programação Web - Volume 89,Pressman,2020
+9788500000089,Python - Volume 90,Mitchell,2001
+9788500000090,Sistemas Operacionais - Volume 91,Stallings,2009
+9788500000091,Banco de Dados - Volume 92,Patterson,2000
+9788500000092,Machine Learning - Volume 93,Hearn,2002
+9788500000093,Java - Volume 94,Hearn,2020
+9788500000094,Segurança da Informação - Volume 95,Brookshear,1996
+9788500000095,Segurança da Informação - Volume 96,Thomas Cormen,1997
+9788500000096,Inteligência Artificial - Volume 97,Silberschatz,2008
+9788500000097,Visão Computacional - Volume 98,Szeliski,2001
+9788500000098,Programação Web - Volume 99,Mark Weiss,2000
+9788500000099,Programação Web - Volume 100,Thomas Cormen,2007
+9788500000100,Machine Learning - Volume 101,Hearn,2004
+9788500000101,Arquitetura de Computadores - Volume 102,Stallings,2016
+9788500000102,Visão Computacional - Volume 103,Tanenbaum,2001
+9788500000103,Deep Learning - Volume 104,Russell,2025
+9788500000104,Estruturas de Dados - Volume 105,Erl,2018
+9788500000105,Segurança da Informação - Volume 106,Mark Weiss,2018
+9788500000106,Engenharia de Software - Volume 107,Mark Weiss,1996
+9788500000107,Computação em Nuvem - Volume 108,Szeliski,2011
+9788500000108,Mineração de Dados - Volume 109,Silberschatz,1996
+9788500000109,Mineração de Dados - Volume 110,Deitel,2022
+9788500000110,Redes - Volume 111,Deitel,2014
+9788500000111,Java - Volume 112,Mitchell,2007
+9788500000112,Python - Volume 113,Erl,2002
+9788500000113,Computação em Nuvem - Volume 114,Knuth,1996
+9788500000114,Análise de Dados - Volume 115,Deitel,2008
+9788500000115,Computação em Nuvem - Volume 116,Erl,2011
+9788500000116,Engenharia de Software - Volume 117,Goodfellow,2001
+9788500000117,Engenharia de Software - Volume 118,Mitchell,2003
+9788500000118,Programação Web - Volume 119,Tanenbaum,2016
+9788500000119,Deep Learning - Volume 120,Hearn,2005
+9788500000120,Java - Volume 121,Thomas Cormen,2009
+9788500000121,Análise de Dados - Volume 122,Erl,1998
+9788500000122,Java - Volume 123,Stallings,2001
+9788500000123,Mineração de Dados - Volume 124,Goodfellow,1999
+9788500000124,Compiladores - Volume 125,Deitel,2023
+9788500000125,Inteligência Artificial - Volume 126,Aho,2004
+9788500000126,Redes - Volume 127,Hearn,2021
+9788500000127,Segurança da Informação - Volume 128,McKinney,2014
+9788500000128,Mineração de Dados - Volume 129,Thomas Cormen,2016
+9788500000129,Segurança da Informação - Volume 130,McKinney,2024
+9788500000130,Python - Volume 131,Tanenbaum,2003
+9788500000131,Python - Volume 132,Brookshear,2018
+9788500000132,Segurança da Informação - Volume 133,Tanenbaum,2003
+9788500000133,Deep Learning - Volume 134,Knuth,2001
+9788500000134,Engenharia de Software - Volume 135,Russell,2016
+9788500000135,Machine Learning - Volume 136,Han,2010
+9788500000136,Machine Learning - Volume 137,Mark Weiss,1997
+9788500000137,Arquitetura de Computadores - Volume 138,Goodfellow,1996
+9788500000138,Algoritmos - Volume 139,Pressman,2019
+9788500000139,Banco de Dados - Volume 140,Goodfellow,2000
+9788500000140,Computação Gráfica - Volume 141,Stallings,2017
+9788500000141,Arquitetura de Computadores - Volume 142,Stallings,1995
+9788500000142,Python - Volume 143,Deitel,2025
+9788500000143,Banco de Dados - Volume 144,Stallings,1996
+9788500000144,Compiladores - Volume 145,Erl,2012
+9788500000145,Banco de Dados - Volume 146,Patterson,1999
+9788500000146,Estruturas de Dados - Volume 147,McKinney,2006
+9788500000147,Estruturas de Dados - Volume 148,Aho,2001
+9788500000148,Inteligência Artificial - Volume 149,Brookshear,2006
+9788500000149,Segurança da Informação - Volume 150,Patterson,2014
+9788500000150,Banco de Dados - Volume 151,Mitchell,2022
+9788500000151,Redes - Volume 152,Silberschatz,2023
+9788500000152,Arquitetura de Computadores - Volume 153,Thomas Cormen,2000
+9788500000153,Engenharia de Software - Volume 154,Patterson,2020
+9788500000154,Inteligência Artificial - Volume 155,Goodfellow,2000
+9788500000155,Python - Volume 156,Freeman,2022
+9788500000156,Estruturas de Dados - Volume 157,Szeliski,2002
+9788500000157,Sistemas Operacionais - Volume 158,Hearn,2006
+9788500000158,Deep Learning - Volume 159,Mitchell,2002
+9788500000159,Algoritmos - Volume 160,Russell,2007
+9788500000160,Engenharia de Software - Volume 161,Goodfellow,2022
+9788500000161,Java - Volume 162,Goodfellow,2006
+9788500000162,Mineração de Dados - Volume 163,Freeman,2016
+9788500000163,Segurança da Informação - Volume 164,Pressman,2025
+9788500000164,Algoritmos - Volume 165,Brookshear,2023
+9788500000165,Machine Learning - Volume 166,Silberschatz,2013
+9788500000166,Machine Learning - Volume 167,Mark Weiss,1998
+9788500000167,Análise de Dados - Volume 168,Patterson,2006
+9788500000168,Engenharia de Software - Volume 169,Patterson,2014
+9788500000169,Mineração de Dados - Volume 170,Brookshear,2007
+9788500000170,Computação em Nuvem - Volume 171,Russell,2003
+9788500000171,Estruturas de Dados - Volume 172,Patterson,1995
+9788500000172,Mineração de Dados - Volume 173,Stallings,2016
+9788500000173,Sistemas Operacionais - Volume 174,Aho,2008
+9788500000174,Java - Volume 175,Pressman,2014
+9788500000175,Engenharia de Software - Volume 176,Brookshear,2018
+9788500000176,Deep Learning - Volume 177,Han,2004
+9788500000177,Arquitetura de Computadores - Volume 178,Pressman,2007
+9788500000178,Deep Learning - Volume 179,Stallings,1999
+9788500000179,Sistemas Operacionais - Volume 180,Patterson,2016
+9788500000180,Programação Web - Volume 181,Silberschatz,2014
+9788500000181,Computação em Nuvem - Volume 182,McKinney,2007
+9788500000182,Segurança da Informação - Volume 183,Thomas Cormen,2004
+9788500000183,Deep Learning - Volume 184,Russell,2008
+9788500000184,Computação em Nuvem - Volume 185,Knuth,2015
+9788500000185,Engenharia de Software - Volume 186,Hearn,2009
+9788500000186,Computação Gráfica - Volume 187,Russell,2011
+9788500000187,Visão Computacional - Volume 188,Silberschatz,2016
+9788500000188,Java - Volume 189,McKinney,2011
+9788500000189,Análise de Dados - Volume 190,Pressman,1997
+9788500000190,Inteligência Artificial - Volume 191,McKinney,2002
+9788500000191,Sistemas Operacionais - Volume 192,Tanenbaum,1995
+9788500000192,Estruturas de Dados - Volume 193,Mitchell,2010
+9788500000193,Análise de Dados - Volume 194,Deitel,2009
+9788500000194,Arquitetura de Computadores - Volume 195,Erl,2001
+9788500000195,Programação Web - Volume 196,Szeliski,2007
+9788500000196,Inteligência Artificial - Volume 197,Tanenbaum,2015
+9788500000197,Algoritmos - Volume 198,Brookshear,2019
+9788500000198,Arquitetura de Computadores - Volume 199,Mitchell,2000
+9788500000199,Mineração de Dados - Volume 200,Hearn,1996
+9788500000200,Segurança da Informação - Volume 201,Mitchell,2024
+9788500000201,Python - Volume 202,Hearn,1999
+9788500000202,Computação Gráfica - Volume 203,Han,2012
+9788500000203,Análise de Dados - Volume 204,Pressman,2025
+9788500000204,Computação Gráfica - Volume 205,Knuth,2021
+9788500000205,Mineração de Dados - Volume 206,Patterson,2021
+9788500000206,Segurança da Informação - Volume 207,Hearn,2023
+9788500000207,Redes - Volume 208,Szeliski,2009
+9788500000208,Machine Learning - Volume 209,Mitchell,2021
+9788500000209,Machine Learning - Volume 210,Han,2010
+9788500000210,Inteligência Artificial - Volume 211,Goodfellow,2009
+9788500000211,Java - Volume 212,McKinney,2002
+9788500000212,Machine Learning - Volume 213,Pressman,2005
+9788500000213,Segurança da Informação - Volume 214,Deitel,1999
+9788500000214,Banco de Dados - Volume 215,Mitchell,2007
+9788500000215,Banco de Dados - Volume 216,Russell,1997
+9788500000216,Arquitetura de Computadores - Volume 217,Patterson,2005
+9788500000217,Segurança da Informação - Volume 218,Hearn,2008
+9788500000218,Estruturas de Dados - Volume 219,Russell,2021
+9788500000219,Arquitetura de Computadores - Volume 220,Freeman,2023
+9788500000220,Computação em Nuvem - Volume 221,Thomas Cormen,2022
+9788500000221,Computação em Nuvem - Volume 222,Freeman,2010
+9788500000222,Algoritmos - Volume 223,Aho,2004
+9788500000223,Programação Web - Volume 224,Patterson,2012
+9788500000224,Segurança da Informação - Volume 225,Knuth,2023
+9788500000225,Inteligência Artificial - Volume 226,Szeliski,2002
+9788500000226,Machine Learning - Volume 227,Patterson,2010
+9788500000227,Algoritmos - Volume 228,Freeman,2005
+9788500000228,Programação Web - Volume 229,Silberschatz,2021
+9788500000229,Computação Gráfica - Volume 230,Tanenbaum,2014
+9788500000230,Segurança da Informação - Volume 231,Thomas Cormen,2024
+9788500000231,Programação Web - Volume 232,Erl,2013
+9788500000232,Algoritmos - Volume 233,Deitel,2015
+9788500000233,Arquitetura de Computadores - Volume 234,Tanenbaum,2022
+9788500000234,Computação Gráfica - Volume 235,Silberschatz,1996
+9788500000235,Machine Learning - Volume 236,Freeman,2005
+9788500000236,Sistemas Operacionais - Volume 237,Hearn,2005
+9788500000237,Engenharia de Software - Volume 238,Freeman,2003
+9788500000238,Arquitetura de Computadores - Volume 239,Goodfellow,2021
+9788500000239,Java - Volume 240,Szeliski,1995
+9788500000240,Segurança da Informação - Volume 241,Mark Weiss,2025
+9788500000241,Compiladores - Volume 242,Mitchell,2015
+9788500000242,Java - Volume 243,Mark Weiss,2019
+9788500000243,Algoritmos - Volume 244,Mitchell,2001
+9788500000244,Algoritmos - Volume 245,Knuth,1999
+9788500000245,Inteligência Artificial - Volume 246,Tanenbaum,2010
+9788500000246,Python - Volume 247,Erl,2025
+9788500000247,Sistemas Operacionais - Volume 248,Hearn,2017
+9788500000248,Machine Learning - Volume 249,Aho,2000
+9788500000249,Análise de Dados - Volume 250,Knuth,2025
+9788500000250,Python - Volume 251,Silberschatz,2025
+9788500000251,Deep Learning - Volume 252,Brookshear,2013
+9788500000252,Algoritmos - Volume 253,McKinney,2013
+9788500000253,Programação Web - Volume 254,Freeman,2025
+9788500000254,Sistemas Operacionais - Volume 255,Deitel,2013
+9788500000255,Inteligência Artificial - Volume 256,Brookshear,2017
+9788500000256,Deep Learning - Volume 257,Knuth,2020
+9788500000257,Python - Volume 258,Erl,2020
+9788500000258,Estruturas de Dados - Volume 259,Aho,2012
+9788500000259,Arquitetura de Computadores - Volume 260,Aho,1997
+9788500000260,Mineração de Dados - Volume 261,Pressman,1995
+9788500000261,Arquitetura de Computadores - Volume 262,Szeliski,1998
+9788500000262,Arquitetura de Computadores - Volume 263,Aho,2015
+9788500000263,Computação Gráfica - Volume 264,Tanenbaum,2008
+9788500000264,Redes - Volume 265,Han,2025
+9788500000265,Machine Learning - Volume 266,Knuth,2020
+9788500000266,Segurança da Informação - Volume 267,Szeliski,2009
+9788500000267,Arquitetura de Computadores - Volume 268,Erl,2003
+9788500000268,Engenharia de Software - Volume 269,Mitchell,2021
+9788500000269,Java - Volume 270,Goodfellow,2023
+9788500000270,Computação Gráfica - Volume 271,Mitchell,2019
+9788500000271,Computação Gráfica - Volume 272,Erl,2014
+9788500000272,Programação Web - Volume 273,Pressman,1995
+9788500000273,Visão Computacional - Volume 274,Pressman,2000
+9788500000274,Visão Computacional - Volume 275,Russell,2006
+9788500000275,Machine Learning - Volume 276,Pressman,2003
+9788500000276,Análise de Dados - Volume 277,Goodfellow,2012
+9788500000277,Algoritmos - Volume 278,Han,2025
+9788500000278,Sistemas Operacionais - Volume 279,Deitel,2002
+9788500000279,Arquitetura de Computadores - Volume 280,Szeliski,2012
+9788500000280,Inteligência Artificial - Volume 281,Szeliski,2015
+9788500000281,Visão Computacional - Volume 282,Hearn,2020
+9788500000282,Algoritmos - Volume 283,Deitel,2004
+9788500000283,Inteligência Artificial - Volume 284,Freeman,2017
+9788500000284,Inteligência Artificial - Volume 285,McKinney,2016
+9788500000285,Computação em Nuvem - Volume 286,Aho,2010
+9788500000286,Segurança da Informação - Volume 287,Han,2006
+9788500000287,Arquitetura de Computadores - Volume 288,Stallings,2005
+9788500000288,Compiladores - Volume 289,Hearn,2003
+9788500000289,Deep Learning - Volume 290,Goodfellow,2002
+9788500000290,Python - Volume 291,Russell,2005
+9788500000291,Python - Volume 292,Stallings,2025
+9788500000292,Redes - Volume 293,Russell,2001
+9788500000293,Visão Computacional - Volume 294,Goodfellow,2018
+9788500000294,Computação em Nuvem - Volume 295,Han,2014
+9788500000295,Deep Learning - Volume 296,Brookshear,2021
+9788500000296,Sistemas Operacionais - Volume 297,McKinney,2002
+9788500000297,Compiladores - Volume 298,Silberschatz,2004
+9788500000298,Algoritmos - Volume 299,Stallings,1999
+9788500000299,Machine Learning - Volume 300,Mark Weiss,1996
+9788500000300,Segurança da Informação - Volume 301,McKinney,2017
+9788500000301,Banco de Dados - Volume 302,Szeliski,1998
+9788500000302,Algoritmos - Volume 303,Erl,2004
+9788500000303,Visão Computacional - Volume 304,Szeliski,2009
+9788500000304,Engenharia de Software - Volume 305,Silberschatz,2025
+9788500000305,Estruturas de Dados - Volume 306,Goodfellow,2025
+9788500000306,Visão Computacional - Volume 307,Brookshear,2021
+9788500000307,Java - Volume 308,Freeman,2010
+9788500000308,Java - Volume 309,Erl,2015
+9788500000309,Estruturas de Dados - Volume 310,Tanenbaum,1999
+9788500000310,Computação em Nuvem - Volume 311,McKinney,1997
+9788500000311,Inteligência Artificial - Volume 312,Brookshear,2012
+9788500000312,Arquitetura de Computadores - Volume 313,Knuth,2014
+9788500000313,Análise de Dados - Volume 314,Mitchell,2019
+9788500000314,Mineração de Dados - Volume 315,Freeman,2009
+9788500000315,Computação Gráfica - Volume 316,McKinney,2022
+9788500000316,Computação em Nuvem - Volume 317,Patterson,2004
+9788500000317,Computação em Nuvem - Volume 318,Knuth,1996
+9788500000318,Análise de Dados - Volume 319,Brookshear,2025
+9788500000319,Sistemas Operacionais - Volume 320,Russell,2003
+9788500000320,Java - Volume 321,Silberschatz,2002
+9788500000321,Redes - Volume 322,Stallings,1997
+9788500000322,Redes - Volume 323,Thomas Cormen,2008
+9788500000323,Computação Gráfica - Volume 324,Knuth,2010
+9788500000324,Deep Learning - Volume 325,Mark Weiss,2002
+9788500000325,Deep Learning - Volume 326,McKinney,2017
+9788500000326,Computação Gráfica - Volume 327,Deitel,2016
+9788500000327,Inteligência Artificial - Volume 328,Goodfellow,2020
+9788500000328,Computação em Nuvem - Volume 329,Russell,2008
+9788500000329,Python - Volume 330,Stallings,2002
+9788500000330,Banco de Dados - Volume 331,Goodfellow,2021
+9788500000331,Banco de Dados - Volume 332,Deitel,1996
+9788500000332,Redes - Volume 333,McKinney,2014
+9788500000333,Computação em Nuvem - Volume 334,McKinney,2009
+9788500000334,Python - Volume 335,Hearn,2017
+9788500000335,Deep Learning - Volume 336,Freeman,2025
+9788500000336,Machine Learning - Volume 337,Han,2012
+9788500000337,Visão Computacional - Volume 338,Hearn,1997
+9788500000338,Análise de Dados - Volume 339,Mark Weiss,2023
+9788500000339,Arquitetura de Computadores - Volume 340,Pressman,2014
+9788500000340,Machine Learning - Volume 341,Thomas Cormen,1997
+9788500000341,Inteligência Artificial - Volume 342,Erl,2013
+9788500000342,Algoritmos - Volume 343,Goodfellow,2013
+9788500000343,Estruturas de Dados - Volume 344,Silberschatz,2010
+9788500000344,Mineração de Dados - Volume 345,Hearn,2024
+9788500000345,Machine Learning - Volume 346,Silberschatz,2013
+9788500000346,Arquitetura de Computadores - Volume 347,Szeliski,1997
+9788500000347,Visão Computacional - Volume 348,Aho,2008
+9788500000348,Engenharia de Software - Volume 349,Pressman,2016
+9788500000349,Python - Volume 350,Silberschatz,2005
+9788500000350,Arquitetura de Computadores - Volume 351,Szeliski,2004
+9788500000351,Programação Web - Volume 352,Stallings,1996
+9788500000352,Computação Gráfica - Volume 353,Deitel,2005
+9788500000353,Machine Learning - Volume 354,Pressman,1998
+9788500000354,Programação Web - Volume 355,Han,2021
+9788500000355,Algoritmos - Volume 356,Stallings,2009
+9788500000356,Arquitetura de Computadores - Volume 357,Mark Weiss,2001
+9788500000357,Mineração de Dados - Volume 358,Aho,2014
+9788500000358,Visão Computacional - Volume 359,Hearn,2019
+9788500000359,Estruturas de Dados - Volume 360,Russell,2003
+9788500000360,Segurança da Informação - Volume 361,Tanenbaum,2024
+9788500000361,Deep Learning - Volume 362,Hearn,2023
+9788500000362,Visão Computacional - Volume 363,Brookshear,1995
+9788500000363,Análise de Dados - Volume 364,Mitchell,2017
+9788500000364,Redes - Volume 365,McKinney,2012
+9788500000365,Algoritmos - Volume 366,Stallings,2008
+9788500000366,Java - Volume 367,Mitchell,2021
+9788500000367,Python - Volume 368,Hearn,2025
+9788500000368,Python - Volume 369,Tanenbaum,2010
+9788500000369,Deep Learning - Volume 370,Han,2017
+9788500000370,Machine Learning - Volume 371,Patterson,2021
+9788500000371,Visão Computacional - Volume 372,Szeliski,2002
+9788500000372,Computação Gráfica - Volume 373,Stallings,1999
+9788500000373,Programação Web - Volume 374,Russell,2024
+9788500000374,Análise de Dados - Volume 375,Han,2018
+9788500000375,Banco de Dados - Volume 376,Deitel,2003
+9788500000376,Arquitetura de Computadores - Volume 377,Pressman,2024
+9788500000377,Mineração de Dados - Volume 378,Goodfellow,2021
+9788500000378,Algoritmos - Volume 379,McKinney,2018
+9788500000379,Deep Learning - Volume 380,Erl,2013
+9788500000380,Visão Computacional - Volume 381,Tanenbaum,2009
+9788500000381,Segurança da Informação - Volume 382,Szeliski,2006
+9788500000382,Engenharia de Software - Volume 383,Stallings,2019
+9788500000383,Segurança da Informação - Volume 384,Freeman,2009
+9788500000384,Engenharia de Software - Volume 385,Russell,2017
+9788500000385,Inteligência Artificial - Volume 386,Erl,2007
+9788500000386,Inteligência Artificial - Volume 387,Patterson,1996
+9788500000387,Engenharia de Software - Volume 388,Szeliski,2017
+9788500000388,Programação Web - Volume 389,Freeman,2016
+9788500000389,Banco de Dados - Volume 390,Szeliski,2025
+9788500000390,Estruturas de Dados - Volume 391,Tanenbaum,2011
+9788500000391,Computação em Nuvem - Volume 392,Pressman,2022
+9788500000392,Python - Volume 393,Hearn,1998
+9788500000393,Mineração de Dados - Volume 394,Hearn,1995
+9788500000394,Banco de Dados - Volume 395,Patterson,2022
+9788500000395,Banco de Dados - Volume 396,Deitel,2010
+9788500000396,Machine Learning - Volume 397,Pressman,2014
+9788500000397,Programação Web - Volume 398,Deitel,2022
+9788500000398,Engenharia de Software - Volume 399,Stallings,2007
+9788500000399,Engenharia de Software - Volume 400,Szeliski,2022
+9788500000400,Segurança da Informação - Volume 401,Mark Weiss,2014
+9788500000401,Java - Volume 402,Mitchell,2015
+9788500000402,Deep Learning - Volume 403,Mitchell,2018
+9788500000403,Java - Volume 404,Patterson,1998
+9788500000404,Python - Volume 405,Hearn,2000
+9788500000405,Deep Learning - Volume 406,Thomas Cormen,1996
+9788500000406,Engenharia de Software - Volume 407,Mark Weiss,2004
+9788500000407,Compiladores - Volume 408,Aho,2008
+9788500000408,Banco de Dados - Volume 409,Mitchell,2011
+9788500000409,Arquitetura de Computadores - Volume 410,Erl,2016
+9788500000410,Redes - Volume 411,Silberschatz,2000
+9788500000411,Java - Volume 412,Knuth,2022
+9788500000412,Programação Web - Volume 413,Knuth,2016
+9788500000413,Inteligência Artificial - Volume 414,Szeliski,2024
+9788500000414,Computação em Nuvem - Volume 415,Tanenbaum,2002
+9788500000415,Computação Gráfica - Volume 416,Goodfellow,2009
+9788500000416,Machine Learning - Volume 417,Thomas Cormen,2023
+9788500000417,Computação Gráfica - Volume 418,McKinney,2016
+9788500000418,Segurança da Informação - Volume 419,Silberschatz,1997
+9788500000419,Computação Gráfica - Volume 420,Aho,2013
+9788500000420,Deep Learning - Volume 421,Patterson,2017
+9788500000421,Machine Learning - Volume 422,Hearn,2022
+9788500000422,Deep Learning - Volume 423,Russell,2007
+9788500000423,Visão Computacional - Volume 424,Brookshear,2002
+9788500000424,Programação Web - Volume 425,Erl,2006
+9788500000425,Computação em Nuvem - Volume 426,McKinney,2017
+9788500000426,Deep Learning - Volume 427,Thomas Cormen,2021
+9788500000427,Programação Web - Volume 428,Goodfellow,1995
+9788500000428,Computação em Nuvem - Volume 429,Mark Weiss,2024
+9788500000429,Análise de Dados - Volume 430,Szeliski,2021
+9788500000430,Deep Learning - Volume 431,Mitchell,2014
+9788500000431,Compiladores - Volume 432,Mitchell,2015
+9788500000432,Sistemas Operacionais - Volume 433,Knuth,2003
+9788500000433,Banco de Dados - Volume 434,Brookshear,2023
+9788500000434,Estruturas de Dados - Volume 435,McKinney,2020
+9788500000435,Computação Gráfica - Volume 436,Mark Weiss,2013
+9788500000436,Compiladores - Volume 437,Tanenbaum,1997
+9788500000437,Deep Learning - Volume 438,Pressman,2018
+9788500000438,Arquitetura de Computadores - Volume 439,Silberschatz,2001
+9788500000439,Banco de Dados - Volume 440,Stallings,2023
+9788500000440,Compiladores - Volume 441,Han,2011
+9788500000441,Machine Learning - Volume 442,Silberschatz,2003
+9788500000442,Visão Computacional - Volume 443,McKinney,2018
+9788500000443,Engenharia de Software - Volume 444,Brookshear,2009
+9788500000444,Java - Volume 445,Tanenbaum,2019
+9788500000445,Inteligência Artificial - Volume 446,Freeman,2025
+9788500000446,Segurança da Informação - Volume 447,Aho,1997
+9788500000447,Programação Web - Volume 448,Thomas Cormen,2003
+9788500000448,Segurança da Informação - Volume 449,Brookshear,2009
+9788500000449,Compiladores - Volume 450,Goodfellow,2013
+9788500000450,Programação Web - Volume 451,Aho,1998
+9788500000451,Inteligência Artificial - Volume 452,Szeliski,1995
+9788500000452,Análise de Dados - Volume 453,Stallings,2005
+9788500000453,Análise de Dados - Volume 454,Mitchell,2015
+9788500000454,Java - Volume 455,Hearn,2024
+9788500000455,Deep Learning - Volume 456,Patterson,1998
+9788500000456,Banco de Dados - Volume 457,Mark Weiss,2025
+9788500000457,Estruturas de Dados - Volume 458,McKinney,2010
+9788500000458,Python - Volume 459,Brookshear,2002
+9788500000459,Segurança da Informação - Volume 460,Tanenbaum,2007
+9788500000460,Computação Gráfica - Volume 461,Aho,2016
+9788500000461,Segurança da Informação - Volume 462,Patterson,2013
+9788500000462,Banco de Dados - Volume 463,Patterson,2015
+9788500000463,Python - Volume 464,Szeliski,2014
+9788500000464,Arquitetura de Computadores - Volume 465,Goodfellow,1996
+9788500000465,Compiladores - Volume 466,Russell,2009
+9788500000466,Computação Gráfica - Volume 467,Mitchell,2022
+9788500000467,Compiladores - Volume 468,Brookshear,2016
+9788500000468,Compiladores - Volume 469,Stallings,2023
+9788500000469,Compiladores - Volume 470,Mark Weiss,2007
+9788500000470,Machine Learning - Volume 471,Russell,2025
+9788500000471,Python - Volume 472,Hearn,1997
+9788500000472,Sistemas Operacionais - Volume 473,Knuth,1995
+9788500000473,Estruturas de Dados - Volume 474,Pressman,2002
+9788500000474,Banco de Dados - Volume 475,Erl,2001
+9788500000475,Java - Volume 476,Stallings,2001
+9788500000476,Computação em Nuvem - Volume 477,Russell,2021
+9788500000477,Inteligência Artificial - Volume 478,Pressman,2019
+9788500000478,Banco de Dados - Volume 479,Knuth,1995
+9788500000479,Machine Learning - Volume 480,Tanenbaum,1999
+9788500000480,Segurança da Informação - Volume 481,Goodfellow,2020
+9788500000481,Redes - Volume 482,Brookshear,2016
+9788500000482,Algoritmos - Volume 483,Tanenbaum,1995
+9788500000483,Compiladores - Volume 484,Mitchell,2013
+9788500000484,Engenharia de Software - Volume 485,Thomas Cormen,2000
+9788500000485,Machine Learning - Volume 486,Mark Weiss,1999
+9788500000486,Arquitetura de Computadores - Volume 487,Han,1998
+9788500000487,Java - Volume 488,Szeliski,2009
+9788500000488,Compiladores - Volume 489,Han,2013
+9788500000489,Python - Volume 490,Hearn,2011
+9788500000490,Inteligência Artificial - Volume 491,Knuth,1996
+9788500000491,Mineração de Dados - Volume 492,McKinney,2009
+9788500000492,Algoritmos - Volume 493,Mark Weiss,2010
+9788500000493,Programação Web - Volume 494,Patterson,2016
+9788500000494,Python - Volume 495,Szeliski,2017
+9788500000495,Computação Gráfica - Volume 496,Deitel,2023
+9788500000496,Java - Volume 497,Pressman,2014
+9788500000497,Banco de Dados - Volume 498,Deitel,1999
+9788500000498,Machine Learning - Volume 499,Knuth,2015
+9788500000499,Computação em Nuvem - Volume 500,Stallings,2017
+9788500000500,Engenharia de Software - Volume 501,Freeman,2014
+9788500000501,Mineração de Dados - Volume 502,McKinney,2009
+9788500000502,Mineração de Dados - Volume 503,Knuth,2008
+9788500000503,Python - Volume 504,Brookshear,2022
+9788500000504,Segurança da Informação - Volume 505,Russell,2008
+9788500000505,Computação Gráfica - Volume 506,Mitchell,2008
+9788500000506,Engenharia de Software - Volume 507,Hearn,2007
+9788500000507,Arquitetura de Computadores - Volume 508,Brookshear,2005
+9788500000508,Arquitetura de Computadores - Volume 509,Pressman,2016
+9788500000509,Machine Learning - Volume 510,Aho,2025
+9788500000510,Banco de Dados - Volume 511,Szeliski,1997
+9788500000511,Java - Volume 512,Deitel,1997
+9788500000512,Arquitetura de Computadores - Volume 513,Brookshear,2018
+9788500000513,Compiladores - Volume 514,Tanenbaum,2012
+9788500000514,Estruturas de Dados - Volume 515,Erl,2025
+9788500000515,Segurança da Informação - Volume 516,Stallings,2005
+9788500000516,Python - Volume 517,Patterson,2006
+9788500000517,Arquitetura de Computadores - Volume 518,Mark Weiss,2025
+9788500000518,Deep Learning - Volume 519,Knuth,2004
+9788500000519,Compiladores - Volume 520,Brookshear,2013
+9788500000520,Mineração de Dados - Volume 521,Russell,1999
+9788500000521,Visão Computacional - Volume 522,Mitchell,2022
+9788500000522,Python - Volume 523,Aho,2022
+9788500000523,Segurança da Informação - Volume 524,Aho,1998
+9788500000524,Machine Learning - Volume 525,Erl,2002
+9788500000525,Arquitetura de Computadores - Volume 526,Stallings,2019
+9788500000526,Análise de Dados - Volume 527,Knuth,2016
+9788500000527,Segurança da Informação - Volume 528,Thomas Cormen,2014
+9788500000528,Machine Learning - Volume 529,Thomas Cormen,2000
+9788500000529,Machine Learning - Volume 530,McKinney,2024
+9788500000530,Engenharia de Software - Volume 531,Aho,1995
+9788500000531,Redes - Volume 532,Tanenbaum,2013
+9788500000532,Programação Web - Volume 533,Deitel,1999
+9788500000533,Algoritmos - Volume 534,Deitel,2018
+9788500000534,Mineração de Dados - Volume 535,Russell,2007
+9788500000535,Arquitetura de Computadores - Volume 536,Hearn,2005
+9788500000536,Redes - Volume 537,Aho,2004
+9788500000537,Engenharia de Software - Volume 538,Erl,2014
+9788500000538,Java - Volume 539,Mark Weiss,1999
+9788500000539,Redes - Volume 540,Knuth,1996
+9788500000540,Java - Volume 541,Goodfellow,2009
+9788500000541,Arquitetura de Computadores - Volume 542,Szeliski,2014
+9788500000542,Computação Gráfica - Volume 543,Patterson,2003
+9788500000543,Sistemas Operacionais - Volume 544,Han,1998
+9788500000544,Compiladores - Volume 545,Patterson,1998
+9788500000545,Deep Learning - Volume 546,Erl,2010
+9788500000546,Mineração de Dados - Volume 547,McKinney,1996
+9788500000547,Inteligência Artificial - Volume 548,Freeman,2014
+9788500000548,Estruturas de Dados - Volume 549,Thomas Cormen,2001
+9788500000549,Deep Learning - Volume 550,Russell,2019
+9788500000550,Banco de Dados - Volume 551,Goodfellow,2004
+9788500000551,Engenharia de Software - Volume 552,Brookshear,1995
+9788500000552,Visão Computacional - Volume 553,Patterson,2000
+9788500000553,Banco de Dados - Volume 554,Freeman,2012
+9788500000554,Inteligência Artificial - Volume 555,Han,2012
+9788500000555,Compiladores - Volume 556,Deitel,2007
+9788500000556,Estruturas de Dados - Volume 557,Patterson,1995
+9788500000557,Computação Gráfica - Volume 558,Deitel,2022
+9788500000558,Engenharia de Software - Volume 559,Erl,2008
+9788500000559,Computação em Nuvem - Volume 560,Freeman,2017
+9788500000560,Arquitetura de Computadores - Volume 561,McKinney,1998
+9788500000561,Programação Web - Volume 562,Thomas Cormen,2025
+9788500000562,Engenharia de Software - Volume 563,Silberschatz,2020
+9788500000563,Análise de Dados - Volume 564,Hearn,2021
+9788500000564,Compiladores - Volume 565,Deitel,2008
+9788500000565,Python - Volume 566,Mitchell,2008
+9788500000566,Computação em Nuvem - Volume 567,Freeman,2011
+9788500000567,Java - Volume 568,Freeman,2022
+9788500000568,Deep Learning - Volume 569,Pressman,2002
+9788500000569,Engenharia de Software - Volume 570,Silberschatz,1997
+9788500000570,Mineração de Dados - Volume 571,Brookshear,2011
+9788500000571,Mineração de Dados - Volume 572,Russell,2023
+9788500000572,Compiladores - Volume 573,Aho,2018
+9788500000573,Banco de Dados - Volume 574,Mitchell,1998
+9788500000574,Banco de Dados - Volume 575,Goodfellow,2001
+9788500000575,Redes - Volume 576,Knuth,1999
+9788500000576,Java - Volume 577,Silberschatz,2025
+9788500000577,Visão Computacional - Volume 578,Hearn,2019
+9788500000578,Computação em Nuvem - Volume 579,Erl,2009
+9788500000579,Computação em Nuvem - Volume 580,Knuth,2005
+9788500000580,Engenharia de Software - Volume 581,Tanenbaum,2009
+9788500000581,Java - Volume 582,Szeliski,2009
+9788500000582,Deep Learning - Volume 583,Goodfellow,2013
+9788500000583,Estruturas de Dados - Volume 584,Aho,2011
+9788500000584,Java - Volume 585,McKinney,2009
+9788500000585,Computação Gráfica - Volume 586,Mark Weiss,1996
+9788500000586,Compiladores - Volume 587,McKinney,1997
+9788500000587,Java - Volume 588,Knuth,2014
+9788500000588,Mineração de Dados - Volume 589,Freeman,2009
+9788500000589,Computação em Nuvem - Volume 590,Stallings,2025
+9788500000590,Estruturas de Dados - Volume 591,Hearn,2024
+9788500000591,Computação em Nuvem - Volume 592,Russell,2005
+9788500000592,Análise de Dados - Volume 593,Szeliski,2011
+9788500000593,Banco de Dados - Volume 594,Mark Weiss,2009
+9788500000594,Python - Volume 595,Pressman,2017
+9788500000595,Java - Volume 596,Han,2015
+9788500000596,Redes - Volume 597,Mark Weiss,2002
+9788500000597,Computação Gráfica - Volume 598,Hearn,2011
+9788500000598,Mineração de Dados - Volume 599,Knuth,2000
+9788500000599,Compiladores - Volume 600,Aho,2024
+9788500000600,Deep Learning - Volume 601,Freeman,2008
+9788500000601,Engenharia de Software - Volume 602,Knuth,1996
+9788500000602,Engenharia de Software - Volume 603,Deitel,2005
+9788500000603,Python - Volume 604,Stallings,2016
+9788500000604,Programação Web - Volume 605,McKinney,2003
+9788500000605,Análise de Dados - Volume 606,Tanenbaum,2005
+9788500000606,Java - Volume 607,Erl,2016
+9788500000607,Banco de Dados - Volume 608,Aho,2004
+9788500000608,Programação Web - Volume 609,Tanenbaum,2014
+9788500000609,Java - Volume 610,McKinney,2012
+9788500000610,Programação Web - Volume 611,Pressman,2021
+9788500000611,Banco de Dados - Volume 612,Han,1997
+9788500000612,Arquitetura de Computadores - Volume 613,Han,2006
+9788500000613,Algoritmos - Volume 614,Aho,2004
+9788500000614,Redes - Volume 615,Russell,2005
+9788500000615,Visão Computacional - Volume 616,Russell,2002
+9788500000616,Banco de Dados - Volume 617,Tanenbaum,1997
+9788500000617,Deep Learning - Volume 618,Brookshear,2011
+9788500000618,Segurança da Informação - Volume 619,Han,1996
+9788500000619,Engenharia de Software - Volume 620,Knuth,1999
+9788500000620,Análise de Dados - Volume 621,Freeman,1999
+9788500000621,Redes - Volume 622,Silberschatz,2021
+9788500000622,Análise de Dados - Volume 623,Silberschatz,2018
+9788500000623,Computação Gráfica - Volume 624,Mark Weiss,2008
+9788500000624,Compiladores - Volume 625,Mitchell,2009
+9788500000625,Análise de Dados - Volume 626,McKinney,2019
+9788500000626,Computação Gráfica - Volume 627,Mitchell,2012
+9788500000627,Inteligência Artificial - Volume 628,McKinney,2025
+9788500000628,Visão Computacional - Volume 629,Russell,2006
+9788500000629,Computação em Nuvem - Volume 630,Hearn,2009
+9788500000630,Deep Learning - Volume 631,Freeman,2011
+9788500000631,Mineração de Dados - Volume 632,Patterson,2025
+9788500000632,Redes - Volume 633,Russell,2020
+9788500000633,Análise de Dados - Volume 634,Tanenbaum,2022
+9788500000634,Machine Learning - Volume 635,Mark Weiss,2015
+9788500000635,Visão Computacional - Volume 636,Aho,2012
+9788500000636,Python - Volume 637,Han,2022
+9788500000637,Python - Volume 638,McKinney,1997
+9788500000638,Redes - Volume 639,Goodfellow,2009
+9788500000639,Mineração de Dados - Volume 640,Tanenbaum,2021
+9788500000640,Arquitetura de Computadores - Volume 641,Deitel,2025
+9788500000641,Inteligência Artificial - Volume 642,Hearn,2023
+9788500000642,Compiladores - Volume 643,Thomas Cormen,2008
+9788500000643,Estruturas de Dados - Volume 644,Freeman,2011
+9788500000644,Compiladores - Volume 645,Mitchell,2007
+9788500000645,Java - Volume 646,Aho,2002
+9788500000646,Algoritmos - Volume 647,Pressman,2024
+9788500000647,Python - Volume 648,Pressman,2020
+9788500000648,Banco de Dados - Volume 649,Tanenbaum,1996
+9788500000649,Deep Learning - Volume 650,Szeliski,2017
+9788500000650,Banco de Dados - Volume 651,Szeliski,2009
+9788500000651,Análise de Dados - Volume 652,Thomas Cormen,2023
+9788500000652,Java - Volume 653,Thomas Cormen,2003
+9788500000653,Sistemas Operacionais - Volume 654,Tanenbaum,2012
+9788500000654,Análise de Dados - Volume 655,Han,2008
+9788500000655,Python - Volume 656,McKinney,2002
+9788500000656,Deep Learning - Volume 657,Brookshear,1996
+9788500000657,Inteligência Artificial - Volume 658,Patterson,2015
+9788500000658,Análise de Dados - Volume 659,Hearn,1997
+9788500000659,Python - Volume 660,Szeliski,2014
+9788500000660,Segurança da Informação - Volume 661,Thomas Cormen,2015
+9788500000661,Mineração de Dados - Volume 662,Erl,2002
+9788500000662,Banco de Dados - Volume 663,McKinney,2008
+9788500000663,Algoritmos - Volume 664,Knuth,2006
+9788500000664,Inteligência Artificial - Volume 665,Erl,2008
+9788500000665,Redes - Volume 666,Deitel,2011
+9788500000666,Compiladores - Volume 667,Deitel,2025
+9788500000667,Mineração de Dados - Volume 668,Stallings,2011
+9788500000668,Mineração de Dados - Volume 669,Stallings,1995
+9788500000669,Programação Web - Volume 670,Szeliski,1996
+9788500000670,Programação Web - Volume 671,Aho,2003
+9788500000671,Algoritmos - Volume 672,Aho,2020
+9788500000672,Java - Volume 673,Aho,2002
+9788500000673,Python - Volume 674,Erl,2018
+9788500000674,Engenharia de Software - Volume 675,Tanenbaum,1996
+9788500000675,Compiladores - Volume 676,Stallings,2005
+9788500000676,Redes - Volume 677,Hearn,2017
+9788500000677,Visão Computacional - Volume 678,Silberschatz,2020
+9788500000678,Banco de Dados - Volume 679,Deitel,2017
+9788500000679,Computação Gráfica - Volume 680,Mark Weiss,2004
+9788500000680,Sistemas Operacionais - Volume 681,Mark Weiss,2020
+9788500000681,Sistemas Operacionais - Volume 682,Mark Weiss,2005
+9788500000682,Deep Learning - Volume 683,Han,2007
+9788500000683,Segurança da Informação - Volume 684,Szeliski,2003
+9788500000684,Estruturas de Dados - Volume 685,Russell,2004
+9788500000685,Compiladores - Volume 686,Mark Weiss,2022
+9788500000686,Engenharia de Software - Volume 687,Goodfellow,1998
+9788500000687,Compiladores - Volume 688,Patterson,2023
+9788500000688,Programação Web - Volume 689,Hearn,2023
+9788500000689,Programação Web - Volume 690,Pressman,2000
+9788500000690,Visão Computacional - Volume 691,Szeliski,2006
+9788500000691,Mineração de Dados - Volume 692,Goodfellow,2020
+9788500000692,Java - Volume 693,Patterson,1997
+9788500000693,Arquitetura de Computadores - Volume 694,Knuth,2021
+9788500000694,Redes - Volume 695,Stallings,2004
+9788500000695,Engenharia de Software - Volume 696,Brookshear,1997
+9788500000696,Engenharia de Software - Volume 697,McKinney,2004
+9788500000697,Computação Gráfica - Volume 698,Knuth,2017
+9788500000698,Arquitetura de Computadores - Volume 699,Silberschatz,2017
+9788500000699,Computação Gráfica - Volume 700,Aho,2009
+9788500000700,Estruturas de Dados - Volume 701,Aho,2014
+9788500000701,Arquitetura de Computadores - Volume 702,Goodfellow,2015
+9788500000702,Estruturas de Dados - Volume 703,Deitel,2016
+9788500000703,Programação Web - Volume 704,Aho,2011
+9788500000704,Redes - Volume 705,Thomas Cormen,1999
+9788500000705,Análise de Dados - Volume 706,Hearn,1996
+9788500000706,Banco de Dados - Volume 707,Deitel,2002
+9788500000707,Compiladores - Volume 708,Aho,2007
+9788500000708,Computação em Nuvem - Volume 709,Mark Weiss,2014
+9788500000709,Banco de Dados - Volume 710,Hearn,2025
+9788500000710,Compiladores - Volume 711,Aho,2009
+9788500000711,Java - Volume 712,Erl,1999
+9788500000712,Mineração de Dados - Volume 713,Aho,2007
+9788500000713,Engenharia de Software - Volume 714,Goodfellow,2002
+9788500000714,Python - Volume 715,Thomas Cormen,2018
+9788500000715,Redes - Volume 716,Szeliski,2011
+9788500000716,Programação Web - Volume 717,Stallings,1998
+9788500000717,Machine Learning - Volume 718,Goodfellow,2017
+9788500000718,Computação Gráfica - Volume 719,Russell,2014
+9788500000719,Deep Learning - Volume 720,Szeliski,2001
+9788500000720,Python - Volume 721,Tanenbaum,2022
+9788500000721,Java - Volume 722,Hearn,2000
+9788500000722,Computação Gráfica - Volume 723,Deitel,2020
+9788500000723,Engenharia de Software - Volume 724,Aho,2017
+9788500000724,Java - Volume 725,Stallings,2012
+9788500000725,Deep Learning - Volume 726,McKinney,2022
+9788500000726,Redes - Volume 727,Silberschatz,2020
+9788500000727,Compiladores - Volume 728,Han,2002
+9788500000728,Python - Volume 729,Russell,2020
+9788500000729,Banco de Dados - Volume 730,Mitchell,2020
+9788500000730,Visão Computacional - Volume 731,Thomas Cormen,2006
+9788500000731,Segurança da Informação - Volume 732,Erl,2006
+9788500000732,Computação Gráfica - Volume 733,Stallings,1999
+9788500000733,Análise de Dados - Volume 734,Deitel,1997
+9788500000734,Deep Learning - Volume 735,Freeman,2017
+9788500000735,Visão Computacional - Volume 736,Han,2008
+9788500000736,Arquitetura de Computadores - Volume 737,Erl,1997
+9788500000737,Banco de Dados - Volume 738,Pressman,2015
+9788500000738,Java - Volume 739,Hearn,2009
+9788500000739,Mineração de Dados - Volume 740,Aho,1999
+9788500000740,Segurança da Informação - Volume 741,Erl,2000
+9788500000741,Banco de Dados - Volume 742,Patterson,2011
+9788500000742,Estruturas de Dados - Volume 743,Brookshear,2011
+9788500000743,Banco de Dados - Volume 744,McKinney,2000
+9788500000744,Redes - Volume 745,Pressman,2024
+9788500000745,Inteligência Artificial - Volume 746,Aho,2025
+9788500000746,Mineração de Dados - Volume 747,McKinney,2022
+9788500000747,Java - Volume 748,Goodfellow,2001
+9788500000748,Segurança da Informação - Volume 749,Goodfellow,1999
+9788500000749,Deep Learning - Volume 750,Knuth,2012
+9788500000750,Java - Volume 751,Han,2015
+9788500000751,Redes - Volume 752,Erl,2025
+9788500000752,Computação em Nuvem - Volume 753,Tanenbaum,2000
+9788500000753,Análise de Dados - Volume 754,Knuth,2005
+9788500000754,Computação em Nuvem - Volume 755,Mark Weiss,2021
+9788500000755,Algoritmos - Volume 756,Deitel,1996
+9788500000756,Computação em Nuvem - Volume 757,Goodfellow,2015
+9788500000757,Sistemas Operacionais - Volume 758,Erl,2008
+9788500000758,Análise de Dados - Volume 759,Thomas Cormen,2010
+9788500000759,Segurança da Informação - Volume 760,McKinney,2015
+9788500000760,Deep Learning - Volume 761,Szeliski,2002
+9788500000761,Programação Web - Volume 762,McKinney,2009
+9788500000762,Java - Volume 763,Mark Weiss,2000
+9788500000763,Computação Gráfica - Volume 764,Patterson,2010
+9788500000764,Computação Gráfica - Volume 765,Russell,2005
+9788500000765,Análise de Dados - Volume 766,Tanenbaum,2005
+9788500000766,Engenharia de Software - Volume 767,Aho,2007
+9788500000767,Banco de Dados - Volume 768,Aho,2011
+9788500000768,Segurança da Informação - Volume 769,Brookshear,2005
+9788500000769,Inteligência Artificial - Volume 770,Hearn,1998
+9788500000770,Machine Learning - Volume 771,Hearn,2002
+9788500000771,Banco de Dados - Volume 772,Brookshear,1996
+9788500000772,Deep Learning - Volume 773,Freeman,2022
+9788500000773,Análise de Dados - Volume 774,Patterson,2002
+9788500000774,Redes - Volume 775,Pressman,2024
+9788500000775,Computação em Nuvem - Volume 776,Pressman,2001
+9788500000776,Redes - Volume 777,Szeliski,2011
+9788500000777,Computação Gráfica - Volume 778,Szeliski,2023
+9788500000778,Deep Learning - Volume 779,Szeliski,1995
+9788500000779,Java - Volume 780,Freeman,2011
+9788500000780,Computação Gráfica - Volume 781,Mitchell,2001
+9788500000781,Computação em Nuvem - Volume 782,Aho,1996
+9788500000782,Estruturas de Dados - Volume 783,McKinney,2010
+9788500000783,Análise de Dados - Volume 784,Szeliski,2004
+9788500000784,Segurança da Informação - Volume 785,Thomas Cormen,2022
+9788500000785,Python - Volume 786,Patterson,1999
+9788500000786,Machine Learning - Volume 787,Aho,2019
+9788500000787,Programação Web - Volume 788,Aho,1996
+9788500000788,Programação Web - Volume 789,Mark Weiss,2013
+9788500000789,Segurança da Informação - Volume 790,Russell,2006
+9788500000790,Segurança da Informação - Volume 791,McKinney,1997
+9788500000791,Programação Web - Volume 792,Han,2009
+9788500000792,Segurança da Informação - Volume 793,Goodfellow,2021
+9788500000793,Análise de Dados - Volume 794,Knuth,1998
+9788500000794,Banco de Dados - Volume 795,Brookshear,2007
+9788500000795,Compiladores - Volume 796,Pressman,2012
+9788500000796,Compiladores - Volume 797,Tanenbaum,2001
+9788500000797,Análise de Dados - Volume 798,Han,2007
+9788500000798,Mineração de Dados - Volume 799,Mark Weiss,1996
+9788500000799,Estruturas de Dados - Volume 800,Tanenbaum,2017
+9788500000800,Engenharia de Software - Volume 801,Szeliski,2011
+9788500000801,Computação Gráfica - Volume 802,Tanenbaum,2014
+9788500000802,Mineração de Dados - Volume 803,Tanenbaum,2005
+9788500000803,Análise de Dados - Volume 804,Pressman,2000
+9788500000804,Programação Web - Volume 805,Knuth,2018
+9788500000805,Deep Learning - Volume 806,Erl,2005
+9788500000806,Mineração de Dados - Volume 807,Han,2012
+9788500000807,Visão Computacional - Volume 808,Erl,2004
+9788500000808,Visão Computacional - Volume 809,Thomas Cormen,2006
+9788500000809,Engenharia de Software - Volume 810,Brookshear,2008
+9788500000810,Computação em Nuvem - Volume 811,McKinney,2020
+9788500000811,Algoritmos - Volume 812,Knuth,2010
+9788500000812,Machine Learning - Volume 813,Erl,2013
+9788500000813,Inteligência Artificial - Volume 814,Mark Weiss,2013
+9788500000814,Visão Computacional - Volume 815,Silberschatz,2011
+9788500000815,Análise de Dados - Volume 816,Freeman,1999
+9788500000816,Inteligência Artificial - Volume 817,Mark Weiss,2013
+9788500000817,Python - Volume 818,Russell,1995
+9788500000818,Computação Gráfica - Volume 819,Pressman,2008
+9788500000819,Banco de Dados - Volume 820,Patterson,2017
+9788500000820,Sistemas Operacionais - Volume 821,Patterson,2011
+9788500000821,Análise de Dados - Volume 822,Szeliski,2022
+9788500000822,Estruturas de Dados - Volume 823,Tanenbaum,2011
+9788500000823,Sistemas Operacionais - Volume 824,Stallings,2005
+9788500000824,Visão Computacional - Volume 825,Han,2007
+9788500000825,Engenharia de Software - Volume 826,Silberschatz,2009
+9788500000826,Segurança da Informação - Volume 827,Pressman,2012
+9788500000827,Compiladores - Volume 828,Goodfellow,2014
+9788500000828,Visão Computacional - Volume 829,Russell,2025
+9788500000829,Inteligência Artificial - Volume 830,Goodfellow,2012
+9788500000830,Deep Learning - Volume 831,Mitchell,2025
+9788500000831,Deep Learning - Volume 832,McKinney,2017
+9788500000832,Sistemas Operacionais - Volume 833,Szeliski,2005
+9788500000833,Visão Computacional - Volume 834,Aho,2012
+9788500000834,Machine Learning - Volume 835,McKinney,1998
+9788500000835,Computação em Nuvem - Volume 836,Stallings,2007
+9788500000836,Programação Web - Volume 837,Aho,2025
+9788500000837,Banco de Dados - Volume 838,McKinney,1996
+9788500000838,Deep Learning - Volume 839,Deitel,2006
+9788500000839,Computação Gráfica - Volume 840,Goodfellow,2018
+9788500000840,Visão Computacional - Volume 841,Russell,2001
+9788500000841,Segurança da Informação - Volume 842,Goodfellow,2024
+9788500000842,Segurança da Informação - Volume 843,Goodfellow,1999
+9788500000843,Python - Volume 844,Knuth,2018
+9788500000844,Computação em Nuvem - Volume 845,Mitchell,2002
+9788500000845,Estruturas de Dados - Volume 846,Han,2002
+9788500000846,Inteligência Artificial - Volume 847,Mark Weiss,1998
+9788500000847,Arquitetura de Computadores - Volume 848,Pressman,2017
+9788500000848,Visão Computacional - Volume 849,Brookshear,2016
+9788500000849,Banco de Dados - Volume 850,Thomas Cormen,2025
+9788500000850,Segurança da Informação - Volume 851,Silberschatz,2008
+9788500000851,Visão Computacional - Volume 852,Szeliski,2015
+9788500000852,Sistemas Operacionais - Volume 853,McKinney,2005
+9788500000853,Deep Learning - Volume 854,Mark Weiss,2024
+9788500000854,Java - Volume 855,Erl,2002
+9788500000855,Segurança da Informação - Volume 856,Mark Weiss,2024
+9788500000856,Redes - Volume 857,Patterson,2023
+9788500000857,Redes - Volume 858,Mark Weiss,2021
+9788500000858,Programação Web - Volume 859,Szeliski,2000
+9788500000859,Deep Learning - Volume 860,Mark Weiss,1995
+9788500000860,Deep Learning - Volume 861,Erl,2014
+9788500000861,Python - Volume 862,Pressman,2004
+9788500000862,Computação Gráfica - Volume 863,Stallings,2011
+9788500000863,Visão Computacional - Volume 864,Tanenbaum,2022
+9788500000864,Mineração de Dados - Volume 865,Hearn,2003
+9788500000865,Sistemas Operacionais - Volume 866,Brookshear,2005
+9788500000866,Redes - Volume 867,Hearn,2015
+9788500000867,Machine Learning - Volume 868,Silberschatz,1995
+9788500000868,Engenharia de Software - Volume 869,McKinney,2013
+9788500000869,Sistemas Operacionais - Volume 870,Silberschatz,2014
+9788500000870,Programação Web - Volume 871,Patterson,2011
+9788500000871,Engenharia de Software - Volume 872,Deitel,2007
+9788500000872,Python - Volume 873,Silberschatz,1999
+9788500000873,Visão Computacional - Volume 874,Pressman,2024
+9788500000874,Inteligência Artificial - Volume 875,Thomas Cormen,2003
+9788500000875,Programação Web - Volume 876,Mitchell,2009
+9788500000876,Machine Learning - Volume 877,Pressman,2004
+9788500000877,Computação em Nuvem - Volume 878,Erl,1995
+9788500000878,Machine Learning - Volume 879,Aho,2017
+9788500000879,Inteligência Artificial - Volume 880,Mark Weiss,2016
+9788500000880,Python - Volume 881,Hearn,2004
+9788500000881,Redes - Volume 882,Freeman,2016
+9788500000882,Mineração de Dados - Volume 883,McKinney,2017
+9788500000883,Python - Volume 884,McKinney,2006
+9788500000884,Análise de Dados - Volume 885,Mitchell,2002
+9788500000885,Banco de Dados - Volume 886,Szeliski,1999
+9788500000886,Computação Gráfica - Volume 887,Knuth,2006
+9788500000887,Arquitetura de Computadores - Volume 888,Stallings,2024
+9788500000888,Visão Computacional - Volume 889,Stallings,2020
+9788500000889,Sistemas Operacionais - Volume 890,Mitchell,2016
+9788500000890,Análise de Dados - Volume 891,Deitel,2011
+9788500000891,Computação Gráfica - Volume 892,Han,2017
+9788500000892,Compiladores - Volume 893,Deitel,2024
+9788500000893,Computação em Nuvem - Volume 894,Brookshear,1996
+9788500000894,Segurança da Informação - Volume 895,Han,2001
+9788500000895,Computação em Nuvem - Volume 896,Stallings,1999
+9788500000896,Redes - Volume 897,Pressman,2022
+9788500000897,Mineração de Dados - Volume 898,Hearn,1998
+9788500000898,Sistemas Operacionais - Volume 899,Erl,2010
+9788500000899,Java - Volume 900,Han,2009
+9788500000900,Estruturas de Dados - Volume 901,Hearn,1999
+9788500000901,Mineração de Dados - Volume 902,Patterson,2009
+9788500000902,Computação em Nuvem - Volume 903,Mark Weiss,2012
+9788500000903,Computação Gráfica - Volume 904,McKinney,2018
+9788500000904,Algoritmos - Volume 905,Freeman,2003
+9788500000905,Algoritmos - Volume 906,Russell,2013
+9788500000906,Java - Volume 907,Mark Weiss,2008
+9788500000907,Compiladores - Volume 908,Deitel,2012
+9788500000908,Estruturas de Dados - Volume 909,Deitel,2024
+9788500000909,Visão Computacional - Volume 910,Mark Weiss,2004
+9788500000910,Arquitetura de Computadores - Volume 911,Silberschatz,2019
+9788500000911,Banco de Dados - Volume 912,Patterson,2006
+9788500000912,Programação Web - Volume 913,Hearn,2022
+9788500000913,Programação Web - Volume 914,Freeman,1997
+9788500000914,Segurança da Informação - Volume 915,Tanenbaum,2015
+9788500000915,Compiladores - Volume 916,Brookshear,2000
+9788500000916,Segurança da Informação - Volume 917,Freeman,2011
+9788500000917,Banco de Dados - Volume 918,Mitchell,2021
+9788500000918,Algoritmos - Volume 919,Thomas Cormen,2004
+9788500000919,Computação Gráfica - Volume 920,Stallings,2008
+9788500000920,Segurança da Informação - Volume 921,Freeman,2021
+9788500000921,Inteligência Artificial - Volume 922,Mitchell,2009
+9788500000922,Compiladores - Volume 923,Tanenbaum,2003
+9788500000923,Sistemas Operacionais - Volume 924,Brookshear,1996
+9788500000924,Arquitetura de Computadores - Volume 925,Knuth,2019
+9788500000925,Algoritmos - Volume 926,Mitchell,2001
+9788500000926,Java - Volume 927,Brookshear,2014
+9788500000927,Estruturas de Dados - Volume 928,Hearn,2014
+9788500000928,Estruturas de Dados - Volume 929,Mitchell,2018
+9788500000929,Estruturas de Dados - Volume 930,Freeman,2009
+9788500000930,Inteligência Artificial - Volume 931,Stallings,2001
+9788500000931,Estruturas de Dados - Volume 932,Tanenbaum,2011
+9788500000932,Deep Learning - Volume 933,Mitchell,2021
+9788500000933,Computação em Nuvem - Volume 934,Pressman,2013
+9788500000934,Análise de Dados - Volume 935,Pressman,2002
+9788500000935,Deep Learning - Volume 936,Tanenbaum,2016
+9788500000936,Mineração de Dados - Volume 937,Mitchell,2008
+9788500000937,Deep Learning - Volume 938,Goodfellow,1996
+9788500000938,Segurança da Informação - Volume 939,Erl,2023
+9788500000939,Redes - Volume 940,Patterson,2012
+9788500000940,Visão Computacional - Volume 941,Mark Weiss,2006
+9788500000941,Programação Web - Volume 942,Han,2005
+9788500000942,Arquitetura de Computadores - Volume 943,Patterson,1999
+9788500000943,Deep Learning - Volume 944,Freeman,2000
+9788500000944,Segurança da Informação - Volume 945,Szeliski,2002
+9788500000945,Inteligência Artificial - Volume 946,McKinney,2022
+9788500000946,Banco de Dados - Volume 947,Hearn,2024
+9788500000947,Estruturas de Dados - Volume 948,Stallings,2008
+9788500000948,Arquitetura de Computadores - Volume 949,Stallings,2011
+9788500000949,Banco de Dados - Volume 950,Freeman,2002
+9788500000950,Machine Learning - Volume 951,Russell,2005
+9788500000951,Java - Volume 952,Hearn,2022
+9788500000952,Compiladores - Volume 953,Deitel,2012
+9788500000953,Sistemas Operacionais - Volume 954,Mark Weiss,2003
+9788500000954,Programação Web - Volume 955,Knuth,2014
+9788500000955,Estruturas de Dados - Volume 956,Deitel,2001
+9788500000956,Computação em Nuvem - Volume 957,Stallings,2001
+9788500000957,Visão Computacional - Volume 958,Russell,2022
+9788500000958,Engenharia de Software - Volume 959,McKinney,2025
+9788500000959,Algoritmos - Volume 960,Russell,2024
+9788500000960,Sistemas Operacionais - Volume 961,Brookshear,2018
+9788500000961,Visão Computacional - Volume 962,Mitchell,2017
+9788500000962,Análise de Dados - Volume 963,Russell,2007
+9788500000963,Inteligência Artificial - Volume 964,Stallings,2005
+9788500000964,Deep Learning - Volume 965,Freeman,2009
+9788500000965,Segurança da Informação - Volume 966,Aho,2004
+9788500000966,Machine Learning - Volume 967,Aho,2011
+9788500000967,Visão Computacional - Volume 968,Hearn,1998
+9788500000968,Visão Computacional - Volume 969,Pressman,2024
+9788500000969,Sistemas Operacionais - Volume 970,Aho,2005
+9788500000970,Arquitetura de Computadores - Volume 971,Mark Weiss,2013
+9788500000971,Inteligência Artificial - Volume 972,Tanenbaum,1995
+9788500000972,Machine Learning - Volume 973,Stallings,2024
+9788500000973,Computação em Nuvem - Volume 974,Erl,2018
+9788500000974,Arquitetura de Computadores - Volume 975,McKinney,1999
+9788500000975,Sistemas Operacionais - Volume 976,Pressman,2002
+9788500000976,Programação Web - Volume 977,Erl,2021
+9788500000977,Inteligência Artificial - Volume 978,Szeliski,2012
+9788500000978,Engenharia de Software - Volume 979,Goodfellow,2019
+9788500000979,Visão Computacional - Volume 980,Szeliski,2009
+9788500000980,Redes - Volume 981,Aho,2000
+9788500000981,Banco de Dados - Volume 982,Stallings,2010
+9788500000982,Redes - Volume 983,Stallings,2015
+9788500000983,Estruturas de Dados - Volume 984,Han,1996
+9788500000984,Java - Volume 985,Mark Weiss,2019
+9788500000985,Algoritmos - Volume 986,Patterson,1999
+9788500000986,Inteligência Artificial - Volume 987,Deitel,2017
+9788500000987,Banco de Dados - Volume 988,Thomas Cormen,2001
+9788500000988,Mineração de Dados - Volume 989,Hearn,2006
+9788500000989,Estruturas de Dados - Volume 990,Knuth,2015
+9788500000990,Análise de Dados - Volume 991,Szeliski,2016
+9788500000991,Visão Computacional - Volume 992,Thomas Cormen,1995
+9788500000992,Segurança da Informação - Volume 993,Stallings,2008
+9788500000993,Algoritmos - Volume 994,Thomas Cormen,2011
+9788500000994,Machine Learning - Volume 995,Stallings,2004
+9788500000995,Algoritmos - Volume 996,Han,2021
+9788500000996,Arquitetura de Computadores - Volume 997,Silberschatz,1998
+9788500000997,Python - Volume 998,Han,1999
+9788500000998,Inteligência Artificial - Volume 999,Russell,2014
+9788500000999,Mineração de Dados - Volume 1000,Goodfellow,2021
