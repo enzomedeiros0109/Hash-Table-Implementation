@@ -247,7 +247,7 @@ public class HashTable {
                 return table[probeIndex];
             }
 
-            // Próximo índice
+            //  Próximo índice
             attempt++;
             probeIndex = (index + attempt + (attempt * attempt)) % capacity;
 
