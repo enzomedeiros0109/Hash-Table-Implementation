@@ -1,23 +1,9 @@
-import java.util.Arrays;
-
 public class HashTable {
-
-    class Book{
-        long ISBN;
-        String title, author;
-        int year;
-
-        public Book(long ISBN, String title, String author, int year) {
-            this.ISBN = ISBN;
-            this.title = title;
-            this.author = author;
-            this.year = year;
-        }
-    }
 
     Book[] table;
     int size;
     final int capacity = 1301;
+    int totalCollisions = 0;
 
     public HashTable() {
         // Load factor = 0.7
@@ -35,7 +21,7 @@ public class HashTable {
     }
 
     /*
-    O que faz: Divide o ISBN de três em três números e depois os soma
+    O que faz: Divide o ISBN a cada três números e depois os soma
     Justificativa: Utiliza todos os algarismos para gerar um índice, resultando em menos colisões
      */
     int hash2(long ISBN){
@@ -43,7 +29,7 @@ public class HashTable {
         long temp = ISBN;
 
         while (temp > 0) {
-            sum += temp % 1000; // Pega os últimos 3 digitos
+            sum += temp % 1000; // Pega os últimos 3 dígitos
             temp /= 1000;       // Remove os últimos 3 dígitos de temp
         }
 
@@ -61,13 +47,14 @@ public class HashTable {
     }
 
     /*
-    O que faz: O funcionamento matemático é baseado em uma função polinomial do 2º grau
+    O que faz: O funcionamento matemático é baseado numa função polinomial do 2º grau
      */
     int quadraticTest(int index) {
         int attempt = 0;
         int probeIndex = index;
 
         while (table[probeIndex] != null) {
+            totalCollisions++;
             attempt++;
             // Teste quadrático (C1, C2 = 1
             probeIndex = (index + attempt + (attempt * attempt)) % capacity;
@@ -89,8 +76,9 @@ public class HashTable {
         final int step = 7;
 
         while (table[probeIndex] != null) {
+            totalCollisions++;
             attempt++;
-            // ultiplica a tentativa pelo valor de step
+            // Multiplica a tentativa pelo valor de step
             probeIndex = (index + attempt * step) % capacity;
 
             if (attempt > capacity) {
@@ -101,156 +89,97 @@ public class HashTable {
         return probeIndex;
     }
 
-    void addHash1Linear(Book book){
-        int index = hash1(book.ISBN);
+    // Adicione um método genérico na sua HashTable
+    public void add(Book book, int hashOption, int collisionOption) {
+        if (book == null) return;
 
-        if (table[index] == null){
+        int index;
+        switch (hashOption) {
+            case 1 -> index = hash1(book.ISBN);
+            case 2 -> index = hash2(book.ISBN);
+            case 3 -> index = hash3(book.ISBN);
+            default -> {
+                //System.out.println("Opção de Hash inválida.");
+                return;
+            }
+        }
+
+        if (table[index] == null) {
             table[index] = book;
             size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
+            //System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
             return;
         }
 
-        index = linearProbing(index);
+        // Tratamento de colisão
+        switch (collisionOption) {
+            case 1 -> index = linearProbing(index); // Linear com salto 7
+            case 2 -> index = quadraticTest(index); // Quadrático
+            default -> {
+                //System.out.println("Opção de colisão inválida.");
+                return;
+            }
+        }
 
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
+        if (index == -1) {
+            //System.out.println("A Tabela está cheia!");
             return;
         }
 
         table[index] = book;
         size++;
+        //System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
     }
 
-    void addHash1Quadratic(Book book){
-        int index = hash1(book.ISBN);
+    void removeBook(long ISBN, int hashOption, int collisionOption){
 
-        if (table[index] == null){
-            table[index] = book;
-            size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
-            return;
-        }
+        if (ISBN <= 0) return;
 
-        index = quadraticTest(index);
-
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
-            return;
-        }
-
-        table[index] = book;
-        size++;
-    }
-
-    void addHash2Linear(Book book){
-        int index = hash2(book.ISBN);
-
-        if (table[index] == null){
-            table[index] = book;
-            size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
-            return;
-        }
-
-        index = linearProbing(index);
-
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
-            return;
-        }
-
-        table[index] = book;
-        size++;
-    }
-
-    void addHash2Quadratic(Book book){
-        int index = hash2(book.ISBN);
-
-        if (table[index] == null){
-            table[index] = book;
-            size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
-            return;
-        }
-
-        index = quadraticTest(index);
-
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
-            return;
-        }
-
-        table[index] = book;
-        size++;
-    }
-
-    void addHash3Linear(Book book){
-        int index = hash3(book.ISBN);
-
-        if (table[index] == null){
-            table[index] = book;
-            size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
-            return;
-        }
-
-        index = linearProbing(index);
-
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
-            return;
-        }
-
-        table[index] = book;
-        size++;
-    }
-
-    void addHash3Quadratic(Book book){
-        int index = hash3(book.ISBN);
-
-        if (table[index] == null){
-            table[index] = book;
-            size++;
-            System.out.println("O livro de ISBN " + book.ISBN + " foi adicionado!");
-            return;
-        }
-
-        index = quadraticTest(index);
-
-        if (index == -1){
-            System.out.println("A Tabela está cheia!");
-            return;
-        }
-
-        table[index] = book;
-        size++;
-    }
-
-    void removeBook(long ISBN){
-        int index = searchBookIndex(ISBN);
+        int index = searchBookIndex(ISBN, hashOption, collisionOption);
         if (index != -1){
             table[index] = null;
             size--;
+            //System.out.println("O livro de ISBN " + ISBN + " foi removido!");
         }
     }
 
-    Book searchBook(long ISBN) {
-        int index = hash3(ISBN);
+    Book searchBook(long ISBN, int hashOption, int collisionOption) {
+
+        if (ISBN <= 0) return null;
+
+        int index;
+        switch (hashOption) {
+            case 1 -> index = hash1(ISBN);
+            case 2 -> index = hash2(ISBN);
+            case 3 -> index = hash3(ISBN);
+            default -> {
+                //System.out.println("Opção de Hash inválida.");
+                return null;
+            }
+        }
+
         int attempt = 0;
         int probeIndex = index;
+        final int step = 7;
 
         // Teste Quadrático
         while (table[probeIndex] != null) {
             if (table[probeIndex].ISBN == ISBN) {
-                System.out.println("Livro encontrado!");
+                //System.out.println("Livro encontrado!");
                 return table[probeIndex];
             }
 
             //  Próximo índice
             attempt++;
-            probeIndex = (index + attempt + (attempt * attempt)) % capacity;
 
+            switch (collisionOption) {
+                case 1 -> probeIndex = (index + attempt * step) % capacity; // Linear
+                case 2 -> probeIndex = (index + attempt + (attempt * attempt)) % capacity; // Quadrático
+                default -> {
+                    //System.out.println("Opção de colisão inválida.");
+                    return null;
+                }
+            }
             // Para não percorrer a tabela mais de uma vez
             if (attempt > capacity) {
                 break;
@@ -258,35 +187,54 @@ public class HashTable {
         }
 
         // Não existe
-        System.out.println("O livro não existe na tabela!");
+        //System.out.println("O livro não existe na tabela!");
         return null;
     }
 
-    int searchBookIndex(long ISBN) {
-        int index = hash3(ISBN);
+    int searchBookIndex(long ISBN, int hashOption, int collisionOption) {
+
+        if (ISBN <= 0) return -1;
+
+        int index;
+        switch (hashOption) {
+            case 1 -> index = hash1(ISBN);
+            case 2 -> index = hash2(ISBN);
+            case 3 -> index = hash3(ISBN);
+            default -> {
+                //System.out.println("Opção de Hash inválida.");
+                return -1;
+            }
+        }
+
         int attempt = 0;
         int probeIndex = index;
+        final int step = 7;
 
-        // Teste Quadrático
+        // Procura posição não vazia
         while (table[probeIndex] != null) {
             if (table[probeIndex].ISBN == ISBN) {
-                System.out.println("Livro encontrado!");
+                //System.out.println("Livro encontrado!");
                 return probeIndex;
             }
 
             // Próximo índice
             attempt++;
-            probeIndex = (index + attempt + (attempt * attempt)) % capacity;
+            switch (collisionOption) {
+                case 1 -> probeIndex = (index + attempt * step) % capacity; // Linear
+                case 2 -> probeIndex = (index + attempt + (attempt * attempt)) % capacity; // Quadrático
+                default -> {
+                    //System.out.println("Opção de colisão inválida.");
+                    return -1;
+                }
+            }
 
-            // Para não percorrer a tabela mais de uma vez
             if (attempt > capacity) {
                 break;
             }
         }
 
         // Não existe
-        System.out.println("O livro não existe na tabela!");
+        //System.out.println("O livro não existe na tabela!");
         return -1;
     }
-
 }
