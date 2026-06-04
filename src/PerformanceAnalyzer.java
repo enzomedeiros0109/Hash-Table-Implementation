@@ -4,7 +4,6 @@ public class PerformanceAnalyzer {
         CSVReader reader = new CSVReader();
         reader.readCSV();
         Book[] books = reader.books;
-        HashTable hashTable = new HashTable();
 
         // Roda todas as combinações: Hashes (1 a 3) vs Colisões (1 a 2)
         for (int h = 1; h <= 3; h++) {
@@ -15,7 +14,7 @@ public class PerformanceAnalyzer {
 
         for (int h = 1; h <= 3; h++) {
             for (int c = 1; c <= 2; c++) {
-                PerformanceAnalyzer.runSearchTests(reader.books, hashTable, h, c);
+                PerformanceAnalyzer.runSearchTests(reader.books, h, c);
             }
         }
     }
@@ -46,6 +45,7 @@ public class PerformanceAnalyzer {
         double tempoMedioBusca = ((endSearch - startSearch) / 1000000.0) / books.length;
 
         // MEDIÇÃO DE REMOÇÃO
+        table.printConcentrationMap();
 
         long startRemove = System.nanoTime();
 
@@ -85,14 +85,14 @@ public class PerformanceAnalyzer {
         System.out.println();
     }
 
-    public static void runSearchTests(Book[] sampleBooks, HashTable table, int hashOption, int collisionOption) {
+    public static void runSearchTests(Book[] sampleBooks, int hashOption, int collisionOption) {
         System.out.println("\n=======================================================");
         System.out.println("TESTE DE BUSCAS - Hash " + hashOption + " | Colisão " + collisionOption);
         System.out.println("=======================================================");
 
-        // Preenchendo a tabela com os livros antes de iniciar as buscas
+        HashTable table = new HashTable();
         for (Book book : sampleBooks) {
-            table.add(book, hashOption, collisionOption);
+            if (book != null) table.add(book, hashOption, collisionOption);
         }
 
         // 50 buscas de ISBN's EXISTENTES
